@@ -9,6 +9,8 @@ public class MiClase {
     private int precioCortado = (int) precio; /* Casteo: Conversión entre tipos */
     private int entero = 5;
     private double decimal = entero; /*Forma de presentarlo cuando es caso contrario, se ajusta de manera automático*/
+    
+
 
     
 }
